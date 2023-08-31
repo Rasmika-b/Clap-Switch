@@ -7,7 +7,7 @@ Engineering Clinics Project
 
 - It is adaptable to an array of electrical devices and can be configured based on individual user preferences. Moreover, the sensitivity of the switch can be finely tuned to align with the user's specific requirements.
 
-For more details, look into the methodology.txt. 
+For more details, look into the methodology.md. 
 
 Here, is the end product-
 
