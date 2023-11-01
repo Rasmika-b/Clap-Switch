@@ -11,7 +11,7 @@ For more details, look into the methodology.md.
 
 Here, is the end product-
 
-<img src="https://github.com/Rasmika-b/Clap-Switch/assets/60094457/b76c8195-3e5b-4511-bbb0-a2965d1c7928" width="550"/>
+<img src="/img/clap_switch.PNG" width="450"/>
 
 For the code, you can view it under code.c file. The project is achieved using Embedded C and Arduino.
 
